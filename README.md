@@ -14,4 +14,4 @@ the project is to deal with the senario in which user want to move a lot of file
   5. to check whether file are moved successfully, and  come out a csv as a report to let user know  which file success and which file fail. 
 
 * Final Result
-* ![image](Processpic.png)
+* ![image](ProcessPic.png)
