@@ -12,3 +12,6 @@ the project is to deal with the senario in which user want to move a lot of file
   3. to change the path prefix to get the back up file source path (ex: E:\--201原始資料存檔\Empty.txt)
   4. to appoint the destination to store the file (ex: D:\\ )
   5. to check whether file are moved successfully, and  come out a csv as a report to let user know  which file success and which file fail. 
+
+* Final Result
+* ![image](Processpic.png)
